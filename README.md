@@ -60,7 +60,7 @@ Total Records: 6 rows
 
 ## 🚀 How to Use
 
-1. Download `dashboard.pbix`
+1. Download `project.pbix`
 2. Open in Power BI Desktop
 3. Explore visuals & filter using slicers
 
