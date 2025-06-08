@@ -1,0 +1,7 @@
+Month,Region,Sales,profit,Product
+Jan,South,25000,4500,Mobile
+Jan,North,30000,2500,laptop
+Feb,South,50000,7000,Mobile
+Feb,North,31000,6000,Laptop
+Mar,South,70000,5000,Laptop
+Mar,North,45000,3000,Laptop
